@@ -1,4 +1,4 @@
-ECHO OFF
+@ECHO ON
 set source=D:\application\
 set source2=C:\configfiles\
 set destination=D:\Backup-myApplication\
